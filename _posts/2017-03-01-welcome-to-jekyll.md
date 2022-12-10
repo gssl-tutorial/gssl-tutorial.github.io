@@ -1,25 +1,10 @@
 ---
-title: "Welcome to Jekyll"
+title: "Abstract"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+In recent years, deep learning on graph-structured data has drawn much attention in both academic and industrial communities. Following the prevailing (semi-) supervised learning paradigms, most deep graph learning methods suffer from several shortcomings, including heavy label reliance, poor generalization, and weak robustness. To circumvent these issues, graph self-supervised learning (GSSL), which extracts supervision signals for model training with well-designed pretext tasks instead of manual labels, has become a promising and trending learning paradigm for graph data. As the field rapidly grows, a global perspective of the development of GSSL is urgently needed in the research community. To fill the gap, we provide a comprehensive tutorial on this fast-growing yet challenging topic.
 
+This tutorial starts with the foundational background of deep graph learning. Then, we conduct a systematic taxonomy to categorize the existing GSSL methods and introduce the most representative ones. Following the latest research trends, we discuss three frontier subtopics under the umbrella of GSSL, including trustworthy GSSL, efficient GSSL, and automatic GSSL. Afterward, we present the real-world applications of GSSL in various directions, including recommender systems, anomaly/out-of-distribution detection, chemistry, and graph structure learning. Lastly, we finalize the tutorial with conclusions and discuss potential future directions.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+We believe this tutorial is beneficial to a broad audience from academia and industry, including general machine learning researchers who would like to know about self-supervised learning on graph-structured data, graph analytics researchers who want to keep track of the most recent advances in deep graph learning, and domain experts who would like to generalize GSSL to new applications or other fields. 
