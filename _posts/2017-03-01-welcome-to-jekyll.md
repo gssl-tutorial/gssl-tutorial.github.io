@@ -1,6 +1,6 @@
 ---
 title: "Abstract"
-layout: post
+layout: default
 ---
 
 In recent years, deep learning on graph-structured data has drawn much attention in both academic and industrial communities. Following the prevailing (semi-) supervised learning paradigms, most deep graph learning methods suffer from several shortcomings, including heavy label reliance, poor generalization, and weak robustness. To circumvent these issues, graph self-supervised learning (GSSL), which extracts supervision signals for model training with well-designed pretext tasks instead of manual labels, has become a promising and trending learning paradigm for graph data. As the field rapidly grows, a global perspective of the development of GSSL is urgently needed in the research community. To fill the gap, we provide a comprehensive tutorial on this fast-growing yet challenging topic.
