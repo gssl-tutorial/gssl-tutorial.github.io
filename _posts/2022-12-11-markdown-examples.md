@@ -16,8 +16,8 @@ layout: post
   
    <li><strong>Frontiers of graph self-supervised learning (50 min, Yizhen)</strong>
         <ol>
-      <li><strong>Trustworthy</strong> graph self-supervised learning (adv defense (ARIEL/GREET) / Fairness(GRADE) / Explainable (UGCL))</li>
-      <li><strong>Efficient</strong> graph self-supervised learning (GGD)
+      <li><strong>Trustworthy</strong> graph self-supervised learning</li>
+      <li><strong>Efficient</strong> graph self-supervised learning
 </li>
       <li><strong>Automatic</strong> graph self-supervised learning</li>
     </ol>
@@ -29,8 +29,8 @@ layout: post
       <li><strong>Recommender system</strong></li>
       <li><strong>Anomaly and out-of-distribution detection</strong>
 </li>
-      <li><strong>Chemistry</li>
-       <li><strong>Graph structure learning (SLAPS/SUBLIME)</li>
+      <li><strong>Chemistry</strong></li>
+       <li><strong>Graph structure learning (SLAPS/SUBLIME)</strong></li>
     </ol>
  </li>
 
